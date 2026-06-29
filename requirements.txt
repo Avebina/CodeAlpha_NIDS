@@ -1,0 +1,11 @@
+# NIDS – Python Dependencies
+# Install with:  pip install -r requirements.txt
+
+# Core packet capture and analysis
+scapy>=2.5.0
+
+# Visualization (optional but recommended)
+matplotlib>=3.7.0
+
+# Windows users: also install Npcap from https://npcap.com
+# Linux users:   run as root (sudo python nids.py)
